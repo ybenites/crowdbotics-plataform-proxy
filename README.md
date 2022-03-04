@@ -1,6 +1,6 @@
-# Proxy Eurowings Imgur
+# Proxy crowdbotics Plataform
 
-Proxy to Calling Imgur API through PHP
+Proxy to Calling crowdbotics API through PHP
 
 ## Getting Started
 
