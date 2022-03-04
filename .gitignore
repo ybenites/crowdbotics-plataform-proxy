@@ -1,0 +1,6 @@
+.idea/
+.vendor/
+composer.lock
+vendor/
+/.tmp
+CachePages/cache.file
